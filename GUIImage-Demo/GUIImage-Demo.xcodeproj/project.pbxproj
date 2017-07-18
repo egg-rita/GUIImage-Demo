@@ -14,6 +14,10 @@
 		3318DEA61F1C9C5200EC17E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3318DEA51F1C9C5200EC17E0 /* Assets.xcassets */; };
 		3318DEA91F1C9C5200EC17E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3318DEA71F1C9C5200EC17E0 /* LaunchScreen.storyboard */; };
 		3318DEB11F1CAEB900EC17E0 /* 01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3318DEB01F1CAEB900EC17E0 /* 01.jpg */; };
+		3343DCCA1F1DBBEC004F3FF9 /* 02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3343DCC91F1DBBEC004F3FF9 /* 02.jpg */; };
+		3343DCCC1F1DBE2C004F3FF9 /* 03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3343DCCB1F1DBE2C004F3FF9 /* 03.jpg */; };
+		3343DCCE1F1DD5C7004F3FF9 /* 04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3343DCCD1F1DD5C7004F3FF9 /* 04.jpg */; };
+		3343DCD01F1DD5D9004F3FF9 /* 05.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3343DCCF1F1DD5D9004F3FF9 /* 05.jpeg */; };
 		A5D8FA6E9A00DBA30CBC2E95 /* libPods-GUIImage-Demo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FB7BECB0769495031C794B3 /* libPods-GUIImage-Demo.a */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +33,10 @@
 		3318DEA81F1C9C5200EC17E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3318DEAA1F1C9C5200EC17E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3318DEB01F1CAEB900EC17E0 /* 01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 01.jpg; sourceTree = "<group>"; };
+		3343DCC91F1DBBEC004F3FF9 /* 02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 02.jpg; sourceTree = "<group>"; };
+		3343DCCB1F1DBE2C004F3FF9 /* 03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 03.jpg; sourceTree = "<group>"; };
+		3343DCCD1F1DD5C7004F3FF9 /* 04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 04.jpg; sourceTree = "<group>"; };
+		3343DCCF1F1DD5D9004F3FF9 /* 05.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 05.jpeg; sourceTree = "<group>"; };
 		512CB66F39DA35DF3991D32A /* Pods-GUIImage-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GUIImage-Demo.release.xcconfig"; path = "Pods/Target Support Files/Pods-GUIImage-Demo/Pods-GUIImage-Demo.release.xcconfig"; sourceTree = "<group>"; };
 		5FB7BECB0769495031C794B3 /* libPods-GUIImage-Demo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GUIImage-Demo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77E63AE55F9B35BDCDF833AE /* Pods-GUIImage-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GUIImage-Demo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GUIImage-Demo/Pods-GUIImage-Demo.debug.xcconfig"; sourceTree = "<group>"; };
@@ -77,6 +85,10 @@
 			isa = PBXGroup;
 			children = (
 				3318DEB01F1CAEB900EC17E0 /* 01.jpg */,
+				3343DCC91F1DBBEC004F3FF9 /* 02.jpg */,
+				3343DCCB1F1DBE2C004F3FF9 /* 03.jpg */,
+				3343DCCD1F1DD5C7004F3FF9 /* 04.jpg */,
+				3343DCCF1F1DD5D9004F3FF9 /* 05.jpeg */,
 				3318DE9C1F1C9C5100EC17E0 /* AppDelegate.h */,
 				3318DE9D1F1C9C5100EC17E0 /* AppDelegate.m */,
 				3318DE9F1F1C9C5100EC17E0 /* ViewController.h */,
@@ -168,8 +180,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3343DCD01F1DD5D9004F3FF9 /* 05.jpeg in Resources */,
+				3343DCCC1F1DBE2C004F3FF9 /* 03.jpg in Resources */,
+				3343DCCA1F1DBBEC004F3FF9 /* 02.jpg in Resources */,
 				3318DEA91F1C9C5200EC17E0 /* LaunchScreen.storyboard in Resources */,
 				3318DEA61F1C9C5200EC17E0 /* Assets.xcassets in Resources */,
+				3343DCCE1F1DD5C7004F3FF9 /* 04.jpg in Resources */,
 				3318DEB11F1CAEB900EC17E0 /* 01.jpg in Resources */,
 				3318DEA41F1C9C5200EC17E0 /* Main.storyboard in Resources */,
 			);
